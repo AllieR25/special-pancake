@@ -66,10 +66,11 @@ This is a simplified demo project for educational purposes and does not cover co
 
 # System Architecture Overview
 
- [On-Prem App]
-        |
-        |   (Migration)
-        v
+```
+[On-Prem App]
+       |
+       |   (Migration)
+       v
 +-----------------------+
 |    AWS Cloud         |
 |  ------------------  |
@@ -80,6 +81,7 @@ This is a simplified demo project for educational purposes and does not cover co
 |  | S3 Bucket      |  | <-- Stores static assets/logs
 |  ------------------  |
 +-----------------------+
+```
 💡 This diagram reflects the core architecture of a typical on-prem to AWS cloud migration.
 
 Why This Project Matters
