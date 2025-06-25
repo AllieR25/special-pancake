@@ -64,6 +64,8 @@ This is a simplified demo project for educational purposes and does not cover co
 
 ## 🔧 Infrastructure Overview (ASCII Diagram)
 
+# System Architecture Overview
+
  [On-Prem App]
         |
         |   (Migration)
